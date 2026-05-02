@@ -1,4 +1,4 @@
-I'm **Dmitry**, a 20‑year‑old Junior Frontend Developer with experience in Python, C++, and C# development.
+I'm **Dmitry**, a 20‑year‑old Frontend Developer with experience in Python, C++, and C# development.
 
 ---
 
